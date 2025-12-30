@@ -1,0 +1,33 @@
+{
+  "name": "GPU Grid VIP Nodes",
+  "symbol": "GRD-VIP",
+  "description": "The GPU Grid network VIP node access credential set. Holding NFTs in this set grants access to restricted markets.",
+  "image": "https://raw.githubusercontent.com/gpugrid-io/grdt/refs/heads/main/GRDT.png",
+  "external_url": "https://gpugrid.io",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Collection"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "VIP"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/gpugrid-io/grdt/refs/heads/main/GRDT.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7qiXwMj1RsUaDH1bkhzcNYX7zXsYec9Kcp2YGrgu4gye",
+        "share": 100
+      }
+    ]
+  }
+}

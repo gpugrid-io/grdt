@@ -1,0 +1,12 @@
+{
+    "name": "Gpugrid",
+    "symbol": "GRDT",
+    "description": "GRDT is a utility token built on Solana using Token-2022 extensions.",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "external_url": "https://gpugrid.io",
+    "attributes": [
+      { "trait_type": "Category", "value": "Utility" },
+      { "trait_type": "Network", "value": "Solana" },
+      { "trait_type": "Standard", "value": "Token-2022" }
+    ]
+  }

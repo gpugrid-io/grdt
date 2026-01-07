@@ -1,7 +1,7 @@
 {
     "name": "Grid",
     "symbol": "GRDT",
-    "description": "GRDT is a utility token built on Solana using Token-2022 extensions.",
+    "description": "GRDT is a utility token built on Solana.",
     "image": "https://raw.githubusercontent.com/gpugrid-io/grdt/refs/heads/main/GRDT.png",
     "external_url": "https://gpugrid.io",
     "attributes": [
